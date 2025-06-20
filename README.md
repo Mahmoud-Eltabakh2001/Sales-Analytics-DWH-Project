@@ -103,7 +103,7 @@ All dimension tables (except `dim_date`) include:
 ## 📬 Contact
 
 For feedback or questions, feel free to reach out:
-**Mahmoud Reda** – [LinkedIn](https://www.linkedin.com/in/mahmoud-reda2001/) *(put your actual link)*  
+**Mahmoud Reda** – [LinkedIn](https://www.linkedin.com/in/mahmoud-reda2001/)  
 📧 mahmoud.reda.eltabakh@gmail.com
 
 
