@@ -58,17 +58,17 @@ All dimension tables (except `dim_date`) include:
 
 ## 📈 Power BI Dashboard
 
-- Connected to the SSAS cube via live connection
+- Connected to the SSAS cube via import connection
 - Designed visuals to answer the following 10 key business questions:
   1. Total sales trends over time
   2. Top-performing products by revenue
   3. Top customers by purchase amount
-  4. Sales performance by region
-  5. Average order value by segment
+  4. Profitability analysis by product (price/cost difference)
+  5. Sales performance by customer
   6. Most profitable products
-  7. Period-over-period sales comparisons
+  7. Sales trend by quarter
   8. Impact of weekends/holidays on sales
-  9. Effect of loyalty programs (if included)
+  9. Top Selling Products by Quantity
   10. Peak selling periods
 
 - KPI cards for total revenue, cost, freight, tax, and quantity sold
