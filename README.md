@@ -78,9 +78,14 @@ All dimension tables (except `dim_date`) include:
 ## 📁 Folder Structure
 
 📂 SSIS-Packages/
+
 📂 SQL-Scripts/
+
 📂 SSAS-Cube/
+
 📂 PowerBI-Report/
+
 📂 Images/
+
 📄 README.md
 
