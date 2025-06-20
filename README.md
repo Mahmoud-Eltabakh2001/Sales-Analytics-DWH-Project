@@ -89,3 +89,21 @@ All dimension tables (except `dim_date`) include:
 
 📄 README.md
 
+
+---
+
+## 📌 Notes
+
+- All ETL packages are reusable and designed for scalability
+- Power BI visuals are interactive 
+- Cube is optimized for high performance browsing
+
+---
+
+## 📬 Contact
+
+For feedback or questions, feel free to reach out:
+**Mahmoud Reda** – [LinkedIn](https://www.linkedin.com/in/mahmoud-reda2001/) *(put your actual link)*  
+📧 mahmoud.reda.eltabakh@gmail.com
+
+
